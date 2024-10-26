@@ -1,3 +1,6 @@
+# 🍔 Projeto - Cardápio Virtual
+<img src="https://i.imgur.com/L4425fh.png"/>
+
 # 🚀 Aplicação Fullstack - Frontend com React e Typescript
 Projeto criado para fins de estudos. Consiste no desenvolvimento de uma aplicação Fullstack de um cardápio virtual, utilizando React e Typescript no desenvolvimento do Frontend, Java e Java Spring no Backend.
 
